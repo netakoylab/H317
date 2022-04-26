@@ -16,4 +16,4 @@ The main idea of this training project is the effective use of parts from past p
 * **5 x NEMA 17 Motors**
 * **Classic TR8 Lead Screw**
 * **6mm x 300mm Linear Rods**
-* **LM6UU/SC6UU Linear Bearings **
+* **LM6UU/SC6UU Linear Bearings**
