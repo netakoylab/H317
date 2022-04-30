@@ -2,6 +2,10 @@
 
 The main idea of this training project is the effective use of parts from past projects
 
+<p align="center">
+  <img src="images/main-view.jpg">
+</p>
+
 ## This is some key point:
 
 * **Open-source 3D printer** 
