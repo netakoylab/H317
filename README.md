@@ -10,7 +10,7 @@ The main idea of this training project is the effective use of parts from past p
 * **Aliexpress influensed**
 
 ## This is some key features:
-* **200mm x 200mm x 150mm Build volume**
+* **Build volume: 200mm x 200mm x 150mm**
 * **E3D V6 style Hot-End**
 * **E3D Titan style  Direct Extruder**
 * **5 x NEMA 17 Motors**
