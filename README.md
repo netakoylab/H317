@@ -1,6 +1,6 @@
 # H317 3D printer
 
-The main idea of this training project is the effective use of parts from past projects
+The main idea of this training project is the effective use of parts from previous projects
 
 <p align="center">
   <img src="images/main-view.jpg">
